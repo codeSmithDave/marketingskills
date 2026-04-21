@@ -260,3 +260,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding or improving ski
 ## License
 
 [MIT](LICENSE) - Use these however you want.
+
+## Medium Article
+
+https://blog.stackademic.com/i-ran-a-github-repo-with-20k-stars-on-a-beauty-product-it-built-my-entire-marketing-strategy-7591d97c70a7
